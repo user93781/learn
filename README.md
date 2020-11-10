@@ -98,24 +98,26 @@
 
 ## Active Directory
 - https://adsecurity.org/
+- https://blog.harmj0y.net/
 
 
 ## Reading list
 - https://labs.sentinelone.com/the-deadly-planeswalker-how-the-trickbot-group-united-high-tech-crimeware-apt/
-- https://labs.sentinelone.com/the-anatomy-of-an-apt-attack-and-cobaltstrike-beacons-encoded-configuration/
+- [x] https://labs.sentinelone.com/the-anatomy-of-an-apt-attack-and-cobaltstrike-beacons-encoded-configuration/
+  - Yara is used to build detection
 - https://www.zdnet.com/article/apple-deprecating-macos-kernel-extensions-kexts-is-a-great-win-for-security/
 - https://www.csoonline.com/article/2124604/what-is-siem-software-how-it-works-and-how-to-choose-the-right-tool.html
-- https://eclecticlight.co/2020/01/10/a-guide-to-catalinas-privacy-protection-1-principles-and-structure/
-- https://github.com/BC-SECURITY/Empire/tree/dev
+- [ ] https://eclecticlight.co/2020/01/10/a-guide-to-catalinas-privacy-protection-1-principles-and-structure/
+- [ ] https://github.com/BC-SECURITY/Empire/tree/dev
 - Python crypto
-  - https://medium.com/@ashiqgiga07/asymmetric-cryptography-with-python-5eed86772731
-  - https://nitratine.net/blog/post/asymmetric-encryption-and-decryption-in-python/
+  - [ ] https://medium.com/@ashiqgiga07/asymmetric-cryptography-with-python-5eed86772731
+  - [ ] https://nitratine.net/blog/post/asymmetric-encryption-and-decryption-in-python/
   - https://cryptography.io/en/latest/
-- https://null-byte.wonderhowto.com/how-to/hacking-macos-create-fake-pdf-trojan-with-applescript-part-1-creating-stager-0184692/
-- https://null-byte.wonderhowto.com/how-to/hacking-macos-perform-privilege-escalation-part-1-file-permissions-abuse-0186331/
-- https://null-byte.wonderhowto.com/how-to/hacking-macos-secretly-livestream-someones-macbook-screen-remotely-0185013/
-- https://null-byte.wonderhowto.com/how-to/hacking-macos-remotely-eavesdrop-real-time-using-anyones-macbook-microphone-0184961/
-- https://null-byte.wonderhowto.com/how-to/hacking-macos-perform-privilege-escalation-part-2-password-phishing-0186332/
+- [ ] https://null-byte.wonderhowto.com/how-to/hacking-macos-create-fake-pdf-trojan-with-applescript-part-1-creating-stager-0184692/
+- [ ] https://null-byte.wonderhowto.com/how-to/hacking-macos-perform-privilege-escalation-part-1-file-permissions-abuse-0186331/
+- [ ] https://null-byte.wonderhowto.com/how-to/hacking-macos-perform-privilege-escalation-part-2-password-phishing-0186332/
+- [x] https://null-byte.wonderhowto.com/how-to/hacking-macos-secretly-livestream-someones-macbook-screen-remotely-0185013/
+- [ ] https://null-byte.wonderhowto.com/how-to/hacking-macos-remotely-eavesdrop-real-time-using-anyones-macbook-microphone-0184961/
 - https://www.crowdstrike.com/blog/adversary-tricks-crowdstrike-treats/
 - https://github.com/BloodHoundAD/BloodHound
 - https://www.pentestpartners.com/security-blog/bloodhound-walkthrough-a-tool-for-many-tradecrafts/
@@ -124,7 +126,31 @@
 - https://labs.sentinelone.com/privilege-escalation-macos-malware-path-to-root/
 - https://www.sentinelone.com/blog/privilege-escalation-macos-malware-the-path-to-root-part-2/
 - https://natanyellin.com/posts/life-and-death-of-a-linux-process/
-
+- https://www.vkremez.com/2019/01/lets-learn-dissecting-lazarus.html
+- https://tools.ietf.org/html/rfc1928
+- LOLbins: https://www.cynet.com/attack-techniques-hands-on/what-are-lolbins-and-how-do-attackers-use-them-in-fileless-attacks/
 - Linux sysadmin: https://www.youtube.com/watch?v=wsh64rjnRas
 - Practical bash scripting: https://www.youtube.com/watch?v=TPRSJbtfK4M
 - Full 15hr ethical hacking: https://www.youtube.com/watch?v=3Kq1MIfTWCE
+- NTDS (NT Directory Services)
+  - https://www.ultimatewindowssecurity.com/blog/default.aspx?d=10/2017#:~:text=dit%20File%3F-,The%20Ntds.,all%20users%20in%20the%20domain.
+- SCDBG tool (Shellcode debugger)
+- OSAscript
+  - https://ss64.com/osx/osascript.html (https://archive.is/2TlaT)
+- Hak5 Toolkit (https://archive.is/yLWyH)
+  - Wifi Pineapple
+  - Kismet
+  - Bash Bunny
+  - Rubber Ducky
+  - Packet Squirrel
+  - Plunder Bug
+  - Shark Jack
+  - Screen Crab
+  - Key Croc
+  - Lan Turtle
+- Alfa Network Card
+  - https://www.alfa.com.tw/
+- https://en.wikipedia.org/wiki/Passive_infrared_sensor
+- https://www.saleae.com/
+
+

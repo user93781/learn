@@ -62,6 +62,7 @@
 - https://www.splunk.com/en_us/blog/security/a-salacious-soliloquy-on-sysmon.html
 
 ## Tools
+- `netdiscover`
 - `iptables`
 - `xxd`
 - `proxychains`
@@ -92,9 +93,12 @@
 - How do ISO files work?
   - Backdooring ISO files: https://blog.keane.space/backdooring-installation-isos.html ([archive](https://archive.is/2qI3E))
 
+## Scripting
 - Bash
   - `mkfifo`
   - http://mywiki.wooledge.org/BashGuide/Practices#Bash_Tests
+- `sed`
+- `awk`
 
 ## Active Directory
 - https://adsecurity.org/
@@ -153,4 +157,16 @@
 - https://en.wikipedia.org/wiki/Passive_infrared_sensor
 - https://www.saleae.com/
 
+# Tutorials to do
+- Detect attacks using Splunk
+    - https://tryhackme.com/room/bpsplunk
+- Analyze memory to trace an attacker's actions using Volatility
+    - https://tryhackme.com/room/bpvolatility
+- Introduction to Malware Analysis
+    - https://tryhackme.com/room/malmalintroductory
+- Researching and Identifying Malware
+    - https://tryhackme.com/room/malresearching
+- Identifying Strings in Malicious Applications
 
+## Cryptography
+- ietf.org/rfc/rfc2437.txt

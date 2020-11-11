@@ -1,4 +1,10 @@
+## Run as another user (not root)
 
+```bash
+su - <username> -c '<command>'
+```
+
+- source: [cybercitibiz](https://archive.is/pIS1p)
 
 ## References
 

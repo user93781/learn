@@ -36,3 +36,7 @@
 
 #### Examine terminal history of the user
 - `history`
+
+## References
+- StackExchange, **How to tell if I'm using HFS+ or APFS?** ([archive](https://archive.is/AIsir))
+

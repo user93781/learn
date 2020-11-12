@@ -196,7 +196,5 @@
 - OSX.LamePyre
 - OSX.BadWord
 
-## APT List
-- Lazarus (North Korea)
-- Dark Caracel (Lebanese)
-- Windshift
+## Tools to explore
+- OSQuery

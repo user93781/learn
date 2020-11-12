@@ -22,7 +22,6 @@ sudo sqlite3 /Library/Application\ Support/com.apple.TCC/TCC.db 'select * from a
 
 ## References
 - **A guide to Catalina's privacy protection, part 2: Controlling privacy settinsg.** ([original](https://eclecticlight.co/2020/01/15/a-guide-to-catalinas-privacy-protection-2-controlling-privacy-settings/), [archive](https://archive.is/32JzX))
-
 - **macOS Catalina and `osquery`.** ([original](https://blog.kolide.com/macos-catalina-osquery-a6753dc3c35c), [archive](https://archive.is/I6cWN))
-
-- **List apps authorized for full disk access.** ([archive]())
+- **List apps authorized for full disk access.** ([archive](https://archive.is/buUPP))
+- **Dropbox hack blocked by Apple in Sierra.** ([archive](https://archive.is/k1lJH))

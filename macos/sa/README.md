@@ -1,5 +1,9 @@
 # Situation Awareness for macOS
 
+#### Check what filesystem the disk uses
+- `diskutil info /`
+  - Look under **File System Personality.**
+
 #### Check if _System Integrity Protection_ is enabled
 - `csrutil status`
 

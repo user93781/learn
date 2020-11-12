@@ -1,8 +1,3 @@
-## Information gathering
-- General statistics
-  - [StatCounter GlobalStats](https://gs.statcounter.com/macos-version-market-share/desktop/worldwide)
-  - Desktop macOS version market share
-
 ## Evasion
 - Red Team Gut Check ([original](https://medium.com/@malcomvetter/red-team-gut-check-10b5976ffd19), [archive](https://archive.is/3Xi9x))
 - Domain Fronting ([original](https://medium.com/@malcomvetter/simplifying-domain-fronting-8d23dcb694a0), [archive](https://archive.is/tqLzQ))
@@ -12,6 +7,12 @@
 - Apple Platform Security Manual (https://manuals.info.apple.com/MANUALS/1000/MA1902/en_US/apple-platform-security-guide.pdf)
 - macOS Catalina Privilege Escalation (https://knight.sc/reverse%20engineering/2019/10/31/macos-catalina-privilege-escalation.html, [archive](https://archive.is/OUP7Q))
 - Classic macOS development (https://knight.sc/software/2020/04/19/classic-macos-development.html)
+- `fs_usage`
+- Initial vectors
+  - [ ] Custom URL schemes
+- Persistence
+  - [ ] `LoginItem`
+  - [ ] `SystemConfiguration.plist`
 
 ## Remote code execution
 - Remote Code Execution via Path Traversal in the Device Metadata Authoring Wizard ([original](https://posts.specterops.io/remote-code-execution-via-path-traversal-in-the-device-metadata-authoring-wizard-a0d5839fc54f), [archive](https://archive.is/EEQzj))
@@ -94,6 +95,13 @@
 - How do ISO files work?
   - Backdooring ISO files: https://blog.keane.space/backdooring-installation-isos.html ([archive](https://archive.is/2qI3E))
 
+## Questions
+- Powershell
+  - [ ] `-executionpolicy Bypass`; why does this exist?
+
+## Reverse engineering
+- [ ] SentinelOne, How to Reverse Engineer macOS malware
+
 ## Scripting
 - Bash
   - `mkfifo`
@@ -109,18 +117,18 @@
 - [ ] https://labs.sentinelone.com/the-deadly-planeswalker-how-the-trickbot-group-united-high-tech-crimeware-apt/
 - [x] https://labs.sentinelone.com/the-anatomy-of-an-apt-attack-and-cobaltstrike-beacons-encoded-configuration/
   - Yara is used to build detection
-- [ ] https://www.zdnet.com/article/apple-deprecating-macos-kernel-extensions-kexts-is-a-great-win-for-security/
+- [x] https://www.zdnet.com/article/apple-deprecating-macos-kernel-extensions-kexts-is-a-great-win-for-security/
 - [x] https://www.csoonline.com/article/2124604/what-is-siem-software-how-it-works-and-how-to-choose-the-right-tool.html
-- [ ] https://eclecticlight.co/2020/01/10/a-guide-to-catalinas-privacy-protection-1-principles-and-structure/
-- [ ] https://github.com/BC-SECURITY/Empire/tree/dev
+- [x] https://eclecticlight.co/2020/01/10/a-guide-to-catalinas-privacy-protection-1-principles-and-structure/
+- [x] https://github.com/BC-SECURITY/Empire/tree/dev
 - [x] Python crypto
   - [x] https://medium.com/@ashiqgiga07/asymmetric-cryptography-with-python-5eed86772731
   - [x] https://nitratine.net/blog/post/asymmetric-encryption-and-decryption-in-python/
   - [x] https://cryptography.io/en/latest/
-- [ ] https://null-byte.wonderhowto.com/how-to/hacking-macos-create-fake-pdf-trojan-with-applescript-part-1-creating-stager-0184692/
+- [x] https://null-byte.wonderhowto.com/how-to/hacking-macos-create-fake-pdf-trojan-with-applescript-part-1-creating-stager-0184692/
+- [x] https://null-byte.wonderhowto.com/how-to/hacking-macos-secretly-livestream-someones-macbook-screen-remotely-0185013/
 - [ ] https://null-byte.wonderhowto.com/how-to/hacking-macos-perform-privilege-escalation-part-1-file-permissions-abuse-0186331/
 - [ ] https://null-byte.wonderhowto.com/how-to/hacking-macos-perform-privilege-escalation-part-2-password-phishing-0186332/
-- [x] https://null-byte.wonderhowto.com/how-to/hacking-macos-secretly-livestream-someones-macbook-screen-remotely-0185013/
 - [ ] https://null-byte.wonderhowto.com/how-to/hacking-macos-remotely-eavesdrop-real-time-using-anyones-macbook-microphone-0184961/
 - [ ] https://www.crowdstrike.com/blog/adversary-tricks-crowdstrike-treats/
 - [ ] https://github.com/BloodHoundAD/BloodHound
@@ -141,6 +149,14 @@
 - [ ] SCDBG tool (Shellcode debugger)
 - [ ] OSAscript
   - [ ] https://ss64.com/osx/osascript.html (https://archive.is/2TlaT)
+- Detect attacks using Splunk
+  - [ ] https://tryhackme.com/room/bpsplunk
+- Analyze memory to trace an attacker's actions using Volatility
+  - [ ] https://tryhackme.com/room/bpvolatility
+- Introduction to Malware Analysis
+  - [ ] https://tryhackme.com/room/malmalintroductory
+- Researching and Identifying Malware
+  - [ ] https://tryhackme.com/room/malresearching
 
 ## Hardware and embedded devices
 - Hak5 Toolkit (https://archive.is/yLWyH)
@@ -162,17 +178,25 @@
 - GoodFET
 - fccid.net
 
-# Tutorials to do
-- Detect attacks using Splunk
-    - https://tryhackme.com/room/bpsplunk
-- Analyze memory to trace an attacker's actions using Volatility
-    - https://tryhackme.com/room/bpvolatility
-- Introduction to Malware Analysis
-    - https://tryhackme.com/room/malmalintroductory
-- Researching and Identifying Malware
-    - https://tryhackme.com/room/malresearching
-- Identifying Strings in Malicious Applications
-
 ## Cryptography
-- ietf.org/rfc/rfc2437.txt
+- [ ] ietf.org/rfc/rfc2437.txt
 
+## Windows
+- EvilWinRM
+
+## macOS malware
+- EmPyre
+- EvilOSX
+- EvilEgg
+- CrossRAT
+- OSX.MaMi
+- OSX.Dummy
+- CoinTicker
+- OSX.DarthMiner
+- OSX.LamePyre
+- OSX.BadWord
+
+## APT List
+- Lazarus (North Korea)
+- Dark Caracel (Lebanese)
+- Windshift

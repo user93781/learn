@@ -9,5 +9,4 @@
 
 - **Security operations center (SOC).**
 
-
 - **Security information and event management (SIEM).**

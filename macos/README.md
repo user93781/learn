@@ -4,7 +4,6 @@
   - source: [archive](https://archive.is/9A2LO)
   - `/var/at/tabs/` (perms: 700 root wheel)
 
-
 ## Credentials
 
 - Google Chrome Passwords
@@ -27,11 +26,16 @@
 - source: [original](https://ss64.com/bash/history.html), [archive](https://archive.is/438Iu)
 - `history -c`
 
-
 #### "The 'xyz' command requires the command line developer tools. Would you like to install the tools now?"
 - Commands
   - `python3`
   - `pip3`
 
+## Frameworks
+
+### Core Services framework
+- Launch Services Keys
+
 ## Mitigations
 - ReiKey (https://objective-see.com/products/reikey.html)
+- Little Snitch

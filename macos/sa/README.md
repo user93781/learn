@@ -10,8 +10,19 @@
 - source: [original](https://stackoverflow.com/questions/15371925/how-to-check-if-command-line-tools-is-installed), [archive](https://archive.is/4RMqO)
 - `xcode-select -p`
 
-#### Learn about the device
-- `system_profiler`
+---
+
+## Learn about the device
+
+### `system_profiler`
+
+- `SPUSBDataType`
+  - Identifies all connected USB drives.
+  - Check if the disk is **writable.** (`Writable`)
+  - Check the amount of **free space**. (`Available`)
+  - Check the **file system** type. (`File System`)
+
+---
 
 #### Identifying devices on the network
 - `arp -i en0 -l -a`

@@ -1,6 +1,8 @@
-# macOS Boot Layout
+# macOS Disk Layout
 
-## macOS 10.13 (High Sierra), macOS 10.14 (Mojave)
+## Boot layout
+
+### macOS 10.13 (High Sierra), macOS 10.14 (Mojave)
 
 ```
 disk0
@@ -22,7 +24,7 @@ disk0
         ~20 KB
 ```
 
-## macOS 10.15 (Catalina)
+### macOS 10.15 (Catalina)
 
 ```
 disk0
@@ -47,7 +49,7 @@ disk0
         ~20 KB
 ```
 
-## macOS 11.0 (Big Sur)
+### macOS 11.0 (Big Sur)
 
 ```
 disk0
@@ -57,12 +59,25 @@ disk0
     disk1
     |
     |-- disk1s1 (APFS volume)
+    |   |
+    |   |--disk1s1s1 (Sealed System Volume, SSV)
+    |      "Macintosh HD"
+    |
     |-- disk1s2
+    |   "Macintosh HD - Data"
+    |
     |-- disk1s3
+    |   Preboot
+    |
     |-- disk1s4
+    |   Recovery
+    |
     |-- disk1s5
-
+        VM
 ```
+
+## Notes
+- Note that the `/Applications` folder is actually a firmlink to the User's applications _blended with_ `/System/Applications`. They appear to be in one folder, but they are actually not.
 
 ## References
 

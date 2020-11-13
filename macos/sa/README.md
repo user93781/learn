@@ -26,6 +26,11 @@
   - Check the amount of **free space**. (`Available`)
   - Check the **file system** type. (`File System`)
 
+- `SPDisplaysDataType`
+  - All video output devices (e.g. monitors).
+- `SPCameraDataType`
+  - All video input devices (e.g. webcams).
+
 ---
 
 #### Identifying devices on the network

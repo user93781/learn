@@ -13,6 +13,7 @@
 - Persistence
   - [ ] `LoginItem`
   - [ ] `SystemConfiguration.plist`
+- [ ] Enable macOS VNC from command line: https://www.unix-ninja.com/p/Enabling_macOS_screen_sharing_VNC_via_command_line ([archive](https://archive.is/pTBQ7))
 
 ## Remote code execution
 - Remote Code Execution via Path Traversal in the Device Metadata Authoring Wizard ([original](https://posts.specterops.io/remote-code-execution-via-path-traversal-in-the-device-metadata-authoring-wizard-a0d5839fc54f), [archive](https://archive.is/EEQzj))
@@ -224,3 +225,13 @@
 - [ ] https://spritesmods.com/?art=hddhack
 - [ ] https://www.howtogeek.com/235596/whats-the-difference-between-fat32-exfat-and-ntfs/
 - [ ] FCC
+
+## Browsers
+
+### Chrome
+- [ ] https://apple.stackexchange.com/questions/232433/where-are-google-chrome-cookies-stored-on-a-mac
+- [ ] https://chromium.googlesource.com/chromium/src.git/+/62.0.3202.58/docs/user_data_dir.md#Chrome-Remote-Desktop-sessions-Linux
+- [ ] https://hackernewsdog.com/google-chrome-recover-history-forensics/
+- [ ] https://cyberforensicator.com/wp-content/uploads/2017/02/20160919.pdf
+- [ ] https://nasbench.medium.com/web-browsers-forensics-7e99940c579a ([archive](https://archive.is/82Mpi))
+

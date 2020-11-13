@@ -202,3 +202,25 @@
 ## Hardware
 - Hardware Security Modules
 
+
+## Debugging, exploit development, and reverse engineering
+- https://gitlab.com/akihe/radamsa
+- https://frida.re/
+- https://github.com/mozilla/rr
+- https://www.scitools.com/
+- https://github.com/google/sanitizers
+- https://blog.ret2.io/2018/06/05/pwn2own-2018-exploit-development/
+- https://blog.ret2.io/2018/06/13/pwn2own-2018-vulnerability-discovery/
+
+## Read
+- [ ] https://www.mdsec.co.uk/2018/08/escaping-the-sandbox-microsoft-office-on-macos/
+- [ ] https://lldb.llvm.org/use/tutorial.html
+- [ ] https://www.youtube.com/watch?v=Zf155HW5Qp0
+- [ ] https://www.youtube.com/watch?v=WWQTlogqF1I
+- [ ] https://www.youtube.com/watch?v=kx2xp7IQNSc
+- [ ] https://www.youtube.com/watch?v=MZ0nSO0WOJg
+- [ ] https://www.youtube.com/watch?v=d4Pgi5XML8E
+- [ ] https://outflank.nl/blog/2019/10/30/abusing-the-sylk-file-format/
+- [ ] https://spritesmods.com/?art=hddhack
+- [ ] https://www.howtogeek.com/235596/whats-the-difference-between-fat32-exfat-and-ntfs/
+- [ ] FCC

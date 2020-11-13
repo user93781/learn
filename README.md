@@ -198,3 +198,7 @@
 
 ## Tools to explore
 - OSQuery
+
+## Hardware
+- Hardware Security Modules
+

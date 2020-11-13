@@ -50,6 +50,14 @@
 
 ## Extended Attributes (`xattrs`)
 
+- `ls -la` that has `@` signifies that extended attributes are present on the file.
+- `xattr -l <file>` can be used to show the extended attributes.
+- `com.apple.rootless` marks an item protected by SIP.
+- `com.apple.ResourceFork.`
+- Metadata subtypes (termed "attributes" by Apple)
+  - `_kMDItemUserTags`. Finder tag information.
+  - `kMDItemIsScreenCapture`.
+
 ## References
 
 - **There's more to files than data: structure and data forks.** ([archive](https://archive.is/dGXbK))

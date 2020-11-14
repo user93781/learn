@@ -51,7 +51,11 @@
 - `launchd`
 - Login hook
 
+## Malware
+- Ring -3 rootkit, Intel Active Management Technology (AMT)
+
 ## Exploit development
+- 
 
 ## Hardware
 - DataMatrix Codes
@@ -61,7 +65,12 @@
   - For MacBook cameras?
 - Optics
   - Fixed-focus optics
-
+- EEPROM
+- I2C
+- Laptop hardware
+  - IPMI
+  - Baseboard Management Interface
 
 ## Blue team
 - https://github.com/user93781/awesome-cybersecurity-blueteam
+- NetFlow

@@ -8,6 +8,9 @@
 - Desktop OS, Browser Statistics (Market Share)
   - [StatCounter GlobalStats](https://gs.statcounter.com/macos-version-market-share/desktop/worldwide)
 
+### AWS
+- [`awspx`](https://labs.f-secure.com/tools/awspx/).
+
 ## Resources
 
 ### Curated articles
@@ -19,3 +22,6 @@
 - [**Travis Goodspeed.**](https://travisgoodspeed.blogspot.com) Hardware and embedded device security.
 - [**Virus Bulletin**](https://www.virusbulletin.com/).
 - [**The Daily Swig**](https://portswigger.net/daily-swig).
+- [**Daniel Miessler**](https://danielmiessler.com/). Cybersecurity professional.
+- [**HanseSecure**](https://hansesecure.de/blog/?lang=en).
+- [**Vincent Yiu**](https://vincentyiu.com/red-team-tips).

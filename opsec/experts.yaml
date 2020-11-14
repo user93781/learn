@@ -1,0 +1,82 @@
+people:
+  - name: Cody Littlewood
+    twitter: @codelitt
+    keywords:
+      - Boveda
+
+  - name: Mike Baker
+    twitter: @mosaic451
+    keywords:
+      - Mosaic451
+
+  - name: Dr. Ross Federgreen
+    twitter: @csrcorporate
+    keywords:
+      - CSR Professional Services, Inc
+
+  - name: Kris Fannin
+    twitter: @krisfannin
+    keywords:
+      - Intelivate
+
+  - name: Jose Enrique Hernandez
+    twitter: @dividous_1
+    keywords:
+      - Zenedge
+      - Prolexic Technologies
+      - Splunk
+
+  - name: Dennis Chow
+    twitter: @scissecurity
+    keywords:
+      - SCIS Security
+
+  - name: Andrew Ward
+    twitter: @scorchsoft
+    keywords:
+      - Scorchsoft
+      - MODL App
+
+  - name: Xu Zou
+    twitter: @zingboxsecurity
+    keywords:
+      - ZingBox
+      - Aerohive Networks
+      - Aruba Networks
+
+  - name: Tim Platt
+    twitter: @VirtOpsIT
+    keywords:
+      - Virtual Operations, LLC
+
+  - name: Justin Davis
+    twitter: @thinkscale
+    keywords: []
+
+  - name: Shy Bredewold
+    twitter: @odysseantravel
+    keywords:
+      - Odyssean Travel
+      - travel agency
+
+  - name: Ranjeet Vidwans
+    twitter: @rvidwans
+    keywords: []
+
+  - name: Joanna Fields
+    twitter: @aplombstrat
+    keywords:
+      - Aplomb Strategies
+
+  - name: Fernando Leon
+    twitter: @singlepointoc
+    keywords:
+      - Single Point of Contact
+
+  - name: Jonathan Rodriguez
+    twitter: @bitmarnetworks
+    keywords:
+      - BitMar Networks
+
+ref:
+  - OPSEC1

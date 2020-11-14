@@ -1,14 +1,4 @@
-# macOS
-
-## Things to learn about
-- XProtect
-- Malware Removal Tool (MRT)
-  - https://krypted.com/mac-os-x/using-apples-built-malware-removal-tool-mrt/
-- Frameworks
-  - Core Services
-    - Launch Services Keys
-
-## Things that cause prompts
+# Things that cause prompts for the user
 
 #### "Terminal would like to administer your computer."
 - source: [original](https://apple.stackexchange.com/questions/360521/how-to-turn-off-terminal-would-like-to-administer-your-computer-message), [archive](https://archive.is/b8UmX)

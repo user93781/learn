@@ -16,4 +16,6 @@
 ### Blogs
 - **Objective-See.** Patrick Wardle on macOS malware.
 - [**The Vault.**](https://swapcontext.blogspot.com)
-- [Travis Goodspeed.**](https://travisgoodspeed.blogspot.com) Hardware and embedded device security.
+- [**Travis Goodspeed.**](https://travisgoodspeed.blogspot.com) Hardware and embedded device security.
+- [**Virus Bulletin**](https://www.virusbulletin.com/).
+- [**The Daily Swig**](https://portswigger.net/daily-swig).

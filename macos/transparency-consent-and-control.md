@@ -9,6 +9,11 @@
 
 ## `tccutil`
 
+#### Resetting app permissions
+- source: [original](https://apple.stackexchange.com/questions/342710/reset-all-mojave-app-permissions), [archive](https://archive.is/jCUAw)
+- `tccutil reset All`
+- `tccutil reset All com.apple.Terminal`
+
 ## TCC database location
 
 - Root: `/Library/Application Support/com.apple.TCC/TCC.db`

@@ -14,6 +14,9 @@
   - [ ] `LoginItem`
   - [ ] `SystemConfiguration.plist`
 - [ ] Enable macOS VNC from command line: https://www.unix-ninja.com/p/Enabling_macOS_screen_sharing_VNC_via_command_line ([archive](https://archive.is/pTBQ7))
+- https://developer.apple.com/library/archive/documentation/DeviceDrivers/Conceptual/IOKitFundamentals/Introduction/Introduction.html
+- https://developer.apple.com/library/archive/documentation/Darwin/Conceptual/KernelProgramming/booting/booting.html
+- https://eclecticlight.co/2018/08/21/booting-the-mac-efi-firmware/
 
 ## Remote code execution
 - Remote Code Execution via Path Traversal in the Device Metadata Authoring Wizard ([original](https://posts.specterops.io/remote-code-execution-via-path-traversal-in-the-device-metadata-authoring-wizard-a0d5839fc54f), [archive](https://archive.is/EEQzj))
@@ -63,16 +66,6 @@
 - https://adsecurity.org/?p=2398 ([archive](https://archive.is/BS6tW))
 - https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc753343(v=ws.11) ([archive](https://archive.is/M3Exd))
 - https://www.splunk.com/en_us/blog/security/a-salacious-soliloquy-on-sysmon.html
-
-## Tools
-- `netdiscover`
-- `iptables`
-- `xxd`
-- `proxychains`
-- Python
-  - `socket`
-  - `os`
-  - `subprocess`
 
 ## Books
 - Targeted Cyber Attacks: Multi-staged Attacks Driven by Exploits and Malware
@@ -159,6 +152,20 @@
 - Researching and Identifying Malware
   - [ ] https://tryhackme.com/room/malresearching
 
+## Password attacks
+- https://techcommunity.microsoft.com/t5/azure-active-directory-identity/all-your-creds-are-belong-to-us/ba-p/855124
+- Credential stuffing
+- Phishing
+- Keylogging
+- Local discovery (dumpster diving, network scanning, physical recon)
+- Extortion
+- Password Spray
+- Brute force
+
+## FreeDOS, Firmware
+- https://opensource.com/article/18/4/gentle-introduction-freedos
+- https://cs.uwaterloo.ca/~brecht/servers/docs/PowerEdge-2600/en/Broadcom/UG/dosdiag.htm
+
 ## Hardware and embedded devices
 - Hak5 Toolkit (https://archive.is/yLWyH)
   - Wifi Pineapple
@@ -178,6 +185,9 @@
 - nRF24 Nordic Semiconductor
 - GoodFET
 - fccid.net
+- Teensy USB development board
+- Travis Goodspeed: Emulating USB Devices
+  - MAX3420E 
 
 ## Cryptography
 - [ ] ietf.org/rfc/rfc2437.txt

@@ -40,7 +40,9 @@
 - `find`
 
 #### Examine terminal history of the user
-- `history`
+- source: [original](https://ss64.com/bash/history.html), [archive](https://archive.is/438Iu)
+  - `history`
+  - `history -c` (clear history)
 
 ## References
 - StackExchange, **How to tell if I'm using HFS+ or APFS?** ([archive](https://archive.is/AIsir))

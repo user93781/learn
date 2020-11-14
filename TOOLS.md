@@ -4,6 +4,10 @@
 
 ## Reconnaissance
 
+### Context gathering
+- Desktop OS, Browser Statistics (Market Share)
+  - [StatCounter GlobalStats](https://gs.statcounter.com/macos-version-market-share/desktop/worldwide)
+
 ### Network Scanning
 - [Zmap](https://github.com/zmap/zmap).
 - [Xray](https://github.com/evilsocket/xray).
@@ -12,6 +16,11 @@
 ### Social media
 - [SimplyEmail](https://github.com/SimplySecurity/SimplyEmail).
 - `tweets_analyzer.py`.
+
+---
+
+## AWS
+- [`awspx`](https://labs.f-secure.com/tools/awspx/).
 
 ---
 

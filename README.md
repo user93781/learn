@@ -254,4 +254,7 @@
 - [ ] https://hackernewsdog.com/google-chrome-recover-history-forensics/
 - [ ] https://cyberforensicator.com/wp-content/uploads/2017/02/20160919.pdf
 - [ ] https://nasbench.medium.com/web-browsers-forensics-7e99940c579a ([archive](https://archive.is/82Mpi))
-
+- Extensions and Secure Preferences
+  - [ ] https://archive.is/SnfVB
+  - [ ] Adlice software: bypass Secure Preferences: https://archive.is/8K62l
+  - [ ] Unpack Resources.pak file: https://archive.is/9u2YG

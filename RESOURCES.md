@@ -39,3 +39,5 @@
 - [**Red Team Journal Archive**](https://redteamjournal.com/archive).
 - [**Nettitude Labs**](https://labs.nettitude.com/).
 - [eideon (darkQuassar)](https://www.eideon.com/).
+- [Kryt3ia](https://krypt3ia.wordpress.com/).
+- [The Grugq](https://gru.gq).

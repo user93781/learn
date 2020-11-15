@@ -3,6 +3,9 @@
 ### Bash
 - https://linuxcommandlibrary.com/basic/oneliners.html
 
+### General tools
+- `openssl`
+
 ### Python
 - `os`
 - `socket`
@@ -43,7 +46,7 @@
   - https://bryce.is/writing/code/macosx/debugging/udp/sockets/dtruss/dtrace/eaddrinuse/2016/07/30/debugging-using-system-calls.html
   - `dtrace`
 - Webcam
-  - [ ] MacBook Webcam Teardown: https://archive.is/OSnWT
+  - [x] MacBook Webcam Teardown: https://archive.is/OSnWT
 
 ### macOS Persistence techniques
 - `cron`

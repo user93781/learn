@@ -1,0 +1,2 @@
+- Install Chrome extension using files.
+  - `<profile name>/<extensions>`

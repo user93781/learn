@@ -1,3 +1,4 @@
+# General OPSEC
 
 ## General
 - Security is only as strong as third-party vendors.
@@ -15,5 +16,10 @@
 - Geolocation
 - Patterns in activity
 
+## Memory
+- Clear memory with `memtest86+`.
+
 ## References
-- ([original](https://digitalguardian.com/blog/overlooked-components-of-opsec-programs), [archive](https://archive.is/HXv1i))
+- Overlooked aspects of OPSEC programs. ([original](https://digitalguardian.com/blog/overlooked-components-of-opsec-programs), [archive](https://archive.is/HXv1i))
+- Erase memory, the memtest86+ way. ([original](https://tails.boum.org/blueprint/more_efficient_memory_wipe/memtest86plus/), [archive](https://archive.is/IIegO))
+- A guide to digital OPSEC. ([archive](https://archive.is/CoJgs))

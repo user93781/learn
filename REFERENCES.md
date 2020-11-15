@@ -10,3 +10,7 @@
 ## Red team
 
 1. 21 Resources for your modern red team. ([original](https://techbeacon.com/security/modern-red-teaming-21-resources-your-security-team), [archive](https://archive.is/k4RZU))
+
+## Initial access
+
+1. The Hitchhiker's Guide to Initial Access. ([archive](https://archive.is/7NXhG))

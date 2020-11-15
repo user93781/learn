@@ -3,6 +3,8 @@
 ## General
 - [Mitre Attack Matrix](https://attack.mitre.org/).
 - [SecLists](https://github.com/danielmiessler/SecLists).
+- [HaveIBeenPwned]().
+- [termbin.com]().
 
 ---
 
@@ -32,6 +34,13 @@
 - [Recon-ng](https://github.com/lanmaster53/recon-ng).
 - [Sn1per](https://github.com/1N3/Sn1per). Automated pentest framework for offensive security (including recon).
 - [Pentest Tools](https://pentest-tools.com/home). Free basic, web-based pentest tools.
+- [OSINT Framework]().
+- [OSINT.link]().
+- [inteltechniques.net]().
+- [Hunchly]().
+
+### Emails
+- [Hunter.io]().
 
 ### History
 - [Wayback Robots](https://gist.github.com/mhmdiaa/2742c5e147d49a804b408bfed3d32d07).
@@ -62,6 +71,11 @@
   - [StatCounter GlobalStats](https://gs.statcounter.com/macos-version-market-share/desktop/worldwide)
 
 ### Domains
+- [`dig`]().
+- [`WHOIS`]().
+- [`nslookup`]().
+- [`dnsrecon`]().
+- [Bluto]().
 - [crt.sh](https://crt.sh/).
 - [viewdns.info](https://viewdns.info/reversewhois/?q=).
 - [dnsdumpster](https://dnsdumpster.com/).
@@ -77,10 +91,20 @@
 - [relative-url-extractor](https://github.com/jobertabma/relative-url-extractor).
 - [httpscreenshot](https://github.com/breenmachine/httpscreenshot/). Gathers screenshots of a large number of websites.
 - [EyeWitness](https://github.com/FortyNorthSecurity/EyeWitness). Take screenshots of websites, provide header info, and identify default credentials if possible.
+- [wappalyzer]().
+- [WhatWeb]().
+- [BuiltWith]().
 
 ### Security
 - Firewalls
   - [WAFW00F](https://github.com/EnableSecurity/wafw00f). Web application firewall fingerprinting tool.
+- Web filtering
+  - [Palo Alto Network Filter](https://urlfiltering.paloaltonetworks.com/).
+  - [McAfee Site Checker](https://www.trustedsource.org/en/feedback/url?action=checksingle).
+  - [Symantec WebPulse](https://sitereview.bluecoat.com/#/).
+  - [Forcepoint Site Lookup Tool](https://www.websense.com/content/Sitelookup.aspx).
+  - [Barracuda IP/Domain Lookup](https://www.barracudacentral.org/lookups).
+  - [Fortiguard Web Filter](https://www.fortiguard.com/webfilter).
 
 ### Network Scanning
 - [Masscan](https://github.com/robertdavidgraham/masscan).
@@ -92,6 +116,12 @@
 - [SimplyEmail](https://github.com/SimplySecurity/SimplyEmail).
 - [`nettitude/prowl`](https://github.com/nettitude/prowl).
 - `tweets_analyzer.py`.
+
+---
+
+## Phishing and initial access
+- [wep](https://github.com/ghost123gg/wep). Generate VBA macros.
+- [Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation). Obfuscate PowerShell commands.
 
 ---
 
@@ -137,6 +167,12 @@
 
 ---
 
+## Hardware
+- Badge cloning
+  - Boscloner Pro
+
+---
+
 ## Reverse Engineering
 - [radare2](https://www.radare.org/r/).
 - [IDA](https://www.hex-rays.com/products/ida/).
@@ -157,7 +193,7 @@
 
 ### C2
 - [PostC2](https://github.com/nettitude/PoshC2).
-
+- [Mythic](https://github.com/its-a-feature/Mythic). Previously known as Apfell.
 
 ### Malware
 - [VirusTotal](https://www.virustotal.com/gui/home/upload).

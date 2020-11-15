@@ -1,8 +1,21 @@
 # Resources
 
+## Compilations
+- [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming).
+
+## CTFs
+- [RingZer0 Online CTF](https://ringzer0ctf.com/).
+
+## Twitter
+- [Nettitude Labs]().
+- [Will Shroeder (`harmj0y`)](https://twitter.com/harmj0y).
+- [Red Team Journal](https://twitter.com/redteamjournal).
+- [Emad Shanab](https://twitter.com/Alra3ees).
+
 ## Curated articles
 - The Eclectic Light Company, _A Guide to Catalina's Privacy Protection: Part 1
   (Principles and Structure)_. ([archive](https://archive.is/T2P52))
+- **How to do your reconnaissance property before chasing a bug bounty. ([archive](https://archive.is/uJMHp))**
 
 ## Blogs
 - **Objective-See.** Patrick Wardle on macOS malware.
@@ -15,3 +28,9 @@
 - [**Vincent Yiu**](https://vincentyiu.com/red-team-tips).
 - [**BellingCat.**](https://www.bellingcat.com/). An international collective
   of researchers using OSINT to probe a variety of subjects.
+- [**IntelTechniques.com**](https://inteltechniques.com/blog/).
+- [**Will Schroeder**](https://blog.harmj0y.net/).
+- [**Red Canary Security Blog**](https://redcanary.com/blog/).
+- [**Red Team Journal Blog**](https://redteamjournal.com/blog).
+- [**Red Team Journal Archive**](https://redteamjournal.com/archive).
+- [**Nettitude Labs**](https://labs.nettitude.com/).

@@ -21,6 +21,9 @@
 ## Remote code execution
 - Remote Code Execution via Path Traversal in the Device Metadata Authoring Wizard ([original](https://posts.specterops.io/remote-code-execution-via-path-traversal-in-the-device-metadata-authoring-wizard-a0d5839fc54f), [archive](https://archive.is/EEQzj))
 
+## C2
+- Modern C2 Infrastructure with Terraform, DigitalOcean, Covenant, and Cloudflare: https://archive.is/Vvp4B
+
 ## Post exploitation
 - Screen capture macOS via FFmpeg ([original](https://null-byte.wonderhowto.com/how-to/hacking-macos-secretly-livestream-someones-macbook-screen-remotely-0185013/), [archive](https://archive.is/hNfbu))
 - Data exfiltration techniques ([original](https://www.pentestpartners.com/security-blog/data-exfiltration-techniques/), [archive](https://archive.is/Bi5kj))
@@ -213,6 +216,12 @@
 ## Hardware
 - Hardware Security Modules
 
+## Mobile networks
+- Smart Cards (Chip Card, ICC)
+- ISO/IEC7816
+- IMSI
+- Java Card
+- The Secret Life of SIM Cards: https://www.youtube.com/watch?v=31D94QOo2gY
 
 ## Debugging, exploit development, and reverse engineering
 - https://gitlab.com/akihe/radamsa

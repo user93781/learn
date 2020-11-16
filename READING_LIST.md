@@ -10,6 +10,10 @@
 - Intrusion Kill Chain: https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf
 - Anti foreniscs: https://grugq.github.io/docs/phrack-59-06.txt
 
+## Active directory
+- Global Catalog, https://stealthbits.com/blog/what-is-a-global-catalog-server/
+- Understanding Global Catalog (ITBros): https://theitbros.com/global-catalog-active-directory/, https://archive.is/68bdC
+
 ## Hardware
 - Wireless chipsets
   - Integrated circuit chips used by the main processor to communicate over a wireless network.

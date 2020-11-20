@@ -7,3 +7,6 @@
 
 ## Windows
 - Forest
+
+## `.scf` exploit
+- Sizzle

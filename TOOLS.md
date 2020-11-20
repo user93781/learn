@@ -41,6 +41,7 @@
 
 ### Emails
 - [Hunter.io]().
+- [theHarvester]().
 
 ### History
 - [Wayback Robots](https://gist.github.com/mhmdiaa/2742c5e147d49a804b408bfed3d32d07).
@@ -94,6 +95,8 @@
 - [wappalyzer]().
 - [WhatWeb]().
 - [BuiltWith]().
+- [Security Headers](https://securityheaders.com).
+- [SSL Server Test](https://ssllabs.com/ssltest/).
 
 ### Security
 - Firewalls
@@ -233,6 +236,9 @@
 
 ## Situational Awareness
 - `netdiscover`
+
+### Windows
+- [JAWS](https://github.com/411Hall/JAWS). Windows enumeration script written in PowerShell.
 
 ---
 

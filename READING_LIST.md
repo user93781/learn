@@ -1,5 +1,15 @@
 # Reading list
 
+- https://www.youtube.com/watch?v=eQ2OZKitRwc
+- https://docs.microsoft.com/en-us/troubleshoot/windows-server/networking/service-overview-and-network-port-requirements
+- https://unix.stackexchange.com/questions/34742/cifs-vs-samba-what-are-the-differences
+- https://www.reddit.com/r/homelab/comments/2fawvq/eli5_what_is_the_difference_between_smb_cifs_and/
+- https://www.thomas-krenn.com/en/wiki/Mounting_a_Windows_Share_in_Linux
+- https://libguestfs.org/
+- https://en.wikipedia.org/wiki/VHD_(file_format)
+- https://insights.sei.cmu.edu/cert/2019/09/the-dangers-of-vhd-and-vhdx-files.html
+- https://github.com/SecureAuthCorp/impacket/blob/master/examples/secretsdump.py
+- https://www.dionach.com/en-us/blog/active-directory-password-auditing-2012
 - 73 rules of spycraft
 - NIST Foreniscs Cloud Computing Guide
 - https://en.wikipedia.org/wiki/Tempest_(codename)
